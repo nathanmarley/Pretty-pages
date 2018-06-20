@@ -1,1 +1,1 @@
-# Pretty-pages
+# pretty-one-page
